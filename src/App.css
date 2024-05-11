@@ -1,6 +1,20 @@
 .App {
   text-align: center;
+  width: 250px;
+  margin: auto;
 }
+
+
+
+input{display: block; width: 100%;}
+.success {
+  background-color: green;
+}
+.warnning {
+  background-color: red;
+}
+
+
 
 .App-logo {
   height: 40vmin;
@@ -12,6 +26,10 @@
     animation: App-logo-spin infinite 20s linear;
   }
 }
+
+
+
+
 
 .App-header {
   background-color: #282c34;
